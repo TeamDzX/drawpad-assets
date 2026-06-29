@@ -10,14 +10,54 @@
       "category": "coloring",
       "thumb": "coloring_animals/cover.png",
       "pages": [
-        { "id": "01", "title": "Lion",     "image": "coloring_animals/01.png", "thumb": "coloring_animals/01_thumb.png" },
-        { "id": "02", "title": "Elephant", "image": "coloring_animals/02.png", "thumb": "coloring_animals/02_thumb.png" },
-        { "id": "03", "title": "Giraffe",  "image": "coloring_animals/03.png", "thumb": "coloring_animals/03_thumb.png" },
-        { "id": "04", "title": "Owl",      "image": "coloring_animals/04.png", "thumb": "coloring_animals/04_thumb.png" },
-        { "id": "05", "title": "Fox",      "image": "coloring_animals/05.png", "thumb": "coloring_animals/05_thumb.png" },
-        { "id": "06", "title": "Rabbit",   "image": "coloring_animals/06.png", "thumb": "coloring_animals/06_thumb.png" },
-        { "id": "07", "title": "Bear",     "image": "coloring_animals/07.png", "thumb": "coloring_animals/07_thumb.png" },
-        { "id": "08", "title": "Turtle",   "image": "coloring_animals/08.png", "thumb": "coloring_animals/08_thumb.png" }
+        {
+          "id": "01",
+          "title": "Lion",
+          "image": "coloring_animals/01.png",
+          "thumb": "coloring_animals/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Elephant",
+          "image": "coloring_animals/02.png",
+          "thumb": "coloring_animals/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Giraffe",
+          "image": "coloring_animals/03.png",
+          "thumb": "coloring_animals/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Owl",
+          "image": "coloring_animals/04.png",
+          "thumb": "coloring_animals/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Fox",
+          "image": "coloring_animals/05.png",
+          "thumb": "coloring_animals/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Rabbit",
+          "image": "coloring_animals/06.png",
+          "thumb": "coloring_animals/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Bear",
+          "image": "coloring_animals/07.png",
+          "thumb": "coloring_animals/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Turtle",
+          "image": "coloring_animals/08.png",
+          "thumb": "coloring_animals/08_thumb.png"
+        }
       ]
     },
     {
@@ -28,14 +68,54 @@
       "category": "coloring",
       "thumb": "coloring_vehicles/cover.png",
       "pages": [
-        { "id": "01", "title": "Car",      "image": "coloring_vehicles/01.png", "thumb": "coloring_vehicles/01_thumb.png" },
-        { "id": "02", "title": "Train",    "image": "coloring_vehicles/02.png", "thumb": "coloring_vehicles/02_thumb.png" },
-        { "id": "03", "title": "Plane",    "image": "coloring_vehicles/03.png", "thumb": "coloring_vehicles/03_thumb.png" },
-        { "id": "04", "title": "Boat",     "image": "coloring_vehicles/04.png", "thumb": "coloring_vehicles/04_thumb.png" },
-        { "id": "05", "title": "Rocket",   "image": "coloring_vehicles/05.png", "thumb": "coloring_vehicles/05_thumb.png" },
-        { "id": "06", "title": "Tractor",  "image": "coloring_vehicles/06.png", "thumb": "coloring_vehicles/06_thumb.png" },
-        { "id": "07", "title": "Bus",      "image": "coloring_vehicles/07.png", "thumb": "coloring_vehicles/07_thumb.png" },
-        { "id": "08", "title": "Digger",   "image": "coloring_vehicles/08.png", "thumb": "coloring_vehicles/08_thumb.png" }
+        {
+          "id": "01",
+          "title": "Car",
+          "image": "coloring_vehicles/01.png",
+          "thumb": "coloring_vehicles/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Train",
+          "image": "coloring_vehicles/02.png",
+          "thumb": "coloring_vehicles/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Plane",
+          "image": "coloring_vehicles/03.png",
+          "thumb": "coloring_vehicles/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Boat",
+          "image": "coloring_vehicles/04.png",
+          "thumb": "coloring_vehicles/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Rocket",
+          "image": "coloring_vehicles/05.png",
+          "thumb": "coloring_vehicles/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Tractor",
+          "image": "coloring_vehicles/06.png",
+          "thumb": "coloring_vehicles/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Bus",
+          "image": "coloring_vehicles/07.png",
+          "thumb": "coloring_vehicles/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Digger",
+          "image": "coloring_vehicles/08.png",
+          "thumb": "coloring_vehicles/08_thumb.png"
+        }
       ]
     },
     {
@@ -46,14 +126,54 @@
       "category": "mandala",
       "thumb": "mandala_starter/cover.png",
       "pages": [
-        { "id": "01", "title": "Bloom",    "image": "mandala_starter/01.png", "thumb": "mandala_starter/01_thumb.png" },
-        { "id": "02", "title": "Petals",   "image": "mandala_starter/02.png", "thumb": "mandala_starter/02_thumb.png" },
-        { "id": "03", "title": "Star",     "image": "mandala_starter/03.png", "thumb": "mandala_starter/03_thumb.png" },
-        { "id": "04", "title": "Lotus",    "image": "mandala_starter/04.png", "thumb": "mandala_starter/04_thumb.png" },
-        { "id": "05", "title": "Spiral",   "image": "mandala_starter/05.png", "thumb": "mandala_starter/05_thumb.png" },
-        { "id": "06", "title": "Sun",      "image": "mandala_starter/06.png", "thumb": "mandala_starter/06_thumb.png" },
-        { "id": "07", "title": "Weave",    "image": "mandala_starter/07.png", "thumb": "mandala_starter/07_thumb.png" },
-        { "id": "08", "title": "Snowflake","image": "mandala_starter/08.png", "thumb": "mandala_starter/08_thumb.png" }
+        {
+          "id": "01",
+          "title": "Bloom",
+          "image": "mandala_starter/01.png",
+          "thumb": "mandala_starter/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Petals",
+          "image": "mandala_starter/02.png",
+          "thumb": "mandala_starter/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Star",
+          "image": "mandala_starter/03.png",
+          "thumb": "mandala_starter/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Lotus",
+          "image": "mandala_starter/04.png",
+          "thumb": "mandala_starter/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Spiral",
+          "image": "mandala_starter/05.png",
+          "thumb": "mandala_starter/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Sun",
+          "image": "mandala_starter/06.png",
+          "thumb": "mandala_starter/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Weave",
+          "image": "mandala_starter/07.png",
+          "thumb": "mandala_starter/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Snowflake",
+          "image": "mandala_starter/08.png",
+          "thumb": "mandala_starter/08_thumb.png"
+        }
       ]
     },
     {
@@ -64,14 +184,54 @@
       "category": "mandala",
       "thumb": "mandala_ocean/cover.png",
       "pages": [
-        { "id": "01", "title": "Shell",      "image": "mandala_ocean/01.png", "thumb": "mandala_ocean/01_thumb.png" },
-        { "id": "02", "title": "Wave",       "image": "mandala_ocean/02.png", "thumb": "mandala_ocean/02_thumb.png" },
-        { "id": "03", "title": "Coral",      "image": "mandala_ocean/03.png", "thumb": "mandala_ocean/03_thumb.png" },
-        { "id": "04", "title": "Starfish",   "image": "mandala_ocean/04.png", "thumb": "mandala_ocean/04_thumb.png" },
-        { "id": "05", "title": "Seahorse",   "image": "mandala_ocean/05.png", "thumb": "mandala_ocean/05_thumb.png" },
-        { "id": "06", "title": "Jellyfish",  "image": "mandala_ocean/06.png", "thumb": "mandala_ocean/06_thumb.png" },
-        { "id": "07", "title": "Anemone",    "image": "mandala_ocean/07.png", "thumb": "mandala_ocean/07_thumb.png" },
-        { "id": "08", "title": "Nautilus",   "image": "mandala_ocean/08.png", "thumb": "mandala_ocean/08_thumb.png" }
+        {
+          "id": "01",
+          "title": "Shell",
+          "image": "mandala_ocean/01.png",
+          "thumb": "mandala_ocean/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Wave",
+          "image": "mandala_ocean/02.png",
+          "thumb": "mandala_ocean/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Coral",
+          "image": "mandala_ocean/03.png",
+          "thumb": "mandala_ocean/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Starfish",
+          "image": "mandala_ocean/04.png",
+          "thumb": "mandala_ocean/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Seahorse",
+          "image": "mandala_ocean/05.png",
+          "thumb": "mandala_ocean/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Jellyfish",
+          "image": "mandala_ocean/06.png",
+          "thumb": "mandala_ocean/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Anemone",
+          "image": "mandala_ocean/07.png",
+          "thumb": "mandala_ocean/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Nautilus",
+          "image": "mandala_ocean/08.png",
+          "thumb": "mandala_ocean/08_thumb.png"
+        }
       ]
     },
     {
@@ -82,14 +242,54 @@
       "category": "coloring",
       "thumb": "coloring_unicorns/cover.png",
       "pages": [
-        { "id": "01", "title": "Unicorn",       "image": "coloring_unicorns/01.png", "thumb": "coloring_unicorns/01_thumb.png" },
-        { "id": "02", "title": "Baby Unicorn",  "image": "coloring_unicorns/02.png", "thumb": "coloring_unicorns/02_thumb.png" },
-        { "id": "03", "title": "Pegasus",       "image": "coloring_unicorns/03.png", "thumb": "coloring_unicorns/03_thumb.png" },
-        { "id": "04", "title": "Baby Dragon",   "image": "coloring_unicorns/04.png", "thumb": "coloring_unicorns/04_thumb.png" },
-        { "id": "05", "title": "Mermaid",       "image": "coloring_unicorns/05.png", "thumb": "coloring_unicorns/05_thumb.png" },
-        { "id": "06", "title": "Fairy",         "image": "coloring_unicorns/06.png", "thumb": "coloring_unicorns/06_thumb.png" },
-        { "id": "07", "title": "Magic Stars",   "image": "coloring_unicorns/07.png", "thumb": "coloring_unicorns/07_thumb.png" },
-        { "id": "08", "title": "Narwhal",       "image": "coloring_unicorns/08.png", "thumb": "coloring_unicorns/08_thumb.png" }
+        {
+          "id": "01",
+          "title": "Unicorn",
+          "image": "coloring_unicorns/01.png",
+          "thumb": "coloring_unicorns/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Baby Unicorn",
+          "image": "coloring_unicorns/02.png",
+          "thumb": "coloring_unicorns/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Pegasus",
+          "image": "coloring_unicorns/03.png",
+          "thumb": "coloring_unicorns/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Baby Dragon",
+          "image": "coloring_unicorns/04.png",
+          "thumb": "coloring_unicorns/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Mermaid",
+          "image": "coloring_unicorns/05.png",
+          "thumb": "coloring_unicorns/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Fairy",
+          "image": "coloring_unicorns/06.png",
+          "thumb": "coloring_unicorns/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Magic Stars",
+          "image": "coloring_unicorns/07.png",
+          "thumb": "coloring_unicorns/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Narwhal",
+          "image": "coloring_unicorns/08.png",
+          "thumb": "coloring_unicorns/08_thumb.png"
+        }
       ]
     },
     {
@@ -100,14 +300,54 @@
       "category": "coloring",
       "thumb": "coloring_nature/cover.png",
       "pages": [
-        { "id": "01", "title": "Rose",        "image": "coloring_nature/01.png", "thumb": "coloring_nature/01_thumb.png" },
-        { "id": "02", "title": "Sunflower",   "image": "coloring_nature/02.png", "thumb": "coloring_nature/02_thumb.png" },
-        { "id": "03", "title": "Tulips",      "image": "coloring_nature/03.png", "thumb": "coloring_nature/03_thumb.png" },
-        { "id": "04", "title": "Daisy",       "image": "coloring_nature/04.png", "thumb": "coloring_nature/04_thumb.png" },
-        { "id": "05", "title": "Tree",        "image": "coloring_nature/05.png", "thumb": "coloring_nature/05_thumb.png" },
-        { "id": "06", "title": "Butterfly",   "image": "coloring_nature/06.png", "thumb": "coloring_nature/06_thumb.png" },
-        { "id": "07", "title": "House Plant", "image": "coloring_nature/07.png", "thumb": "coloring_nature/07_thumb.png" },
-        { "id": "08", "title": "Mushrooms",   "image": "coloring_nature/08.png", "thumb": "coloring_nature/08_thumb.png" }
+        {
+          "id": "01",
+          "title": "Rose",
+          "image": "coloring_nature/01.png",
+          "thumb": "coloring_nature/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Sunflower",
+          "image": "coloring_nature/02.png",
+          "thumb": "coloring_nature/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Tulips",
+          "image": "coloring_nature/03.png",
+          "thumb": "coloring_nature/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Daisy",
+          "image": "coloring_nature/04.png",
+          "thumb": "coloring_nature/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Tree",
+          "image": "coloring_nature/05.png",
+          "thumb": "coloring_nature/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Butterfly",
+          "image": "coloring_nature/06.png",
+          "thumb": "coloring_nature/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "House Plant",
+          "image": "coloring_nature/07.png",
+          "thumb": "coloring_nature/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Mushrooms",
+          "image": "coloring_nature/08.png",
+          "thumb": "coloring_nature/08_thumb.png"
+        }
       ]
     },
     {
@@ -118,14 +358,220 @@
       "category": "coloring",
       "thumb": "coloring_heroes/cover.png",
       "pages": [
-        { "id": "01", "title": "Caped Hero",  "image": "coloring_heroes/01.png", "thumb": "coloring_heroes/01_thumb.png" },
-        { "id": "02", "title": "Hero Girl",   "image": "coloring_heroes/02.png", "thumb": "coloring_heroes/02_thumb.png" },
-        { "id": "03", "title": "Brave Hero",  "image": "coloring_heroes/03.png", "thumb": "coloring_heroes/03_thumb.png" },
-        { "id": "04", "title": "Hero Pup",    "image": "coloring_heroes/04.png", "thumb": "coloring_heroes/04_thumb.png" },
-        { "id": "05", "title": "Kid Hero",    "image": "coloring_heroes/05.png", "thumb": "coloring_heroes/05_thumb.png" },
-        { "id": "06", "title": "Robot Hero",  "image": "coloring_heroes/06.png", "thumb": "coloring_heroes/06_thumb.png" },
-        { "id": "07", "title": "Shield Hero", "image": "coloring_heroes/07.png", "thumb": "coloring_heroes/07_thumb.png" },
-        { "id": "08", "title": "Hero Cat",    "image": "coloring_heroes/08.png", "thumb": "coloring_heroes/08_thumb.png" }
+        {
+          "id": "01",
+          "title": "Caped Hero",
+          "image": "coloring_heroes/01.png",
+          "thumb": "coloring_heroes/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Hero Girl",
+          "image": "coloring_heroes/02.png",
+          "thumb": "coloring_heroes/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Brave Hero",
+          "image": "coloring_heroes/03.png",
+          "thumb": "coloring_heroes/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Hero Pup",
+          "image": "coloring_heroes/04.png",
+          "thumb": "coloring_heroes/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Kid Hero",
+          "image": "coloring_heroes/05.png",
+          "thumb": "coloring_heroes/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Robot Hero",
+          "image": "coloring_heroes/06.png",
+          "thumb": "coloring_heroes/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Shield Hero",
+          "image": "coloring_heroes/07.png",
+          "thumb": "coloring_heroes/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Hero Cat",
+          "image": "coloring_heroes/08.png",
+          "thumb": "coloring_heroes/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "cursive_writing",
+      "productID": "TeamDzX.Drawing-App.pack.cursive_writing",
+      "title": "Cursive Writing",
+      "subtitle": "Trace & practice the whole alphabet",
+      "category": "writing",
+      "thumb": "cursive_writing/cover.png",
+      "pages": [
+        {
+          "id": "a",
+          "title": "Letter A",
+          "image": "cursive_writing/a.png",
+          "thumb": "cursive_writing/a_thumb.png"
+        },
+        {
+          "id": "b",
+          "title": "Letter B",
+          "image": "cursive_writing/b.png",
+          "thumb": "cursive_writing/b_thumb.png"
+        },
+        {
+          "id": "c",
+          "title": "Letter C",
+          "image": "cursive_writing/c.png",
+          "thumb": "cursive_writing/c_thumb.png"
+        },
+        {
+          "id": "d",
+          "title": "Letter D",
+          "image": "cursive_writing/d.png",
+          "thumb": "cursive_writing/d_thumb.png"
+        },
+        {
+          "id": "e",
+          "title": "Letter E",
+          "image": "cursive_writing/e.png",
+          "thumb": "cursive_writing/e_thumb.png"
+        },
+        {
+          "id": "f",
+          "title": "Letter F",
+          "image": "cursive_writing/f.png",
+          "thumb": "cursive_writing/f_thumb.png"
+        },
+        {
+          "id": "g",
+          "title": "Letter G",
+          "image": "cursive_writing/g.png",
+          "thumb": "cursive_writing/g_thumb.png"
+        },
+        {
+          "id": "h",
+          "title": "Letter H",
+          "image": "cursive_writing/h.png",
+          "thumb": "cursive_writing/h_thumb.png"
+        },
+        {
+          "id": "i",
+          "title": "Letter I",
+          "image": "cursive_writing/i.png",
+          "thumb": "cursive_writing/i_thumb.png"
+        },
+        {
+          "id": "j",
+          "title": "Letter J",
+          "image": "cursive_writing/j.png",
+          "thumb": "cursive_writing/j_thumb.png"
+        },
+        {
+          "id": "k",
+          "title": "Letter K",
+          "image": "cursive_writing/k.png",
+          "thumb": "cursive_writing/k_thumb.png"
+        },
+        {
+          "id": "l",
+          "title": "Letter L",
+          "image": "cursive_writing/l.png",
+          "thumb": "cursive_writing/l_thumb.png"
+        },
+        {
+          "id": "m",
+          "title": "Letter M",
+          "image": "cursive_writing/m.png",
+          "thumb": "cursive_writing/m_thumb.png"
+        },
+        {
+          "id": "n",
+          "title": "Letter N",
+          "image": "cursive_writing/n.png",
+          "thumb": "cursive_writing/n_thumb.png"
+        },
+        {
+          "id": "o",
+          "title": "Letter O",
+          "image": "cursive_writing/o.png",
+          "thumb": "cursive_writing/o_thumb.png"
+        },
+        {
+          "id": "p",
+          "title": "Letter P",
+          "image": "cursive_writing/p.png",
+          "thumb": "cursive_writing/p_thumb.png"
+        },
+        {
+          "id": "q",
+          "title": "Letter Q",
+          "image": "cursive_writing/q.png",
+          "thumb": "cursive_writing/q_thumb.png"
+        },
+        {
+          "id": "r",
+          "title": "Letter R",
+          "image": "cursive_writing/r.png",
+          "thumb": "cursive_writing/r_thumb.png"
+        },
+        {
+          "id": "s",
+          "title": "Letter S",
+          "image": "cursive_writing/s.png",
+          "thumb": "cursive_writing/s_thumb.png"
+        },
+        {
+          "id": "t",
+          "title": "Letter T",
+          "image": "cursive_writing/t.png",
+          "thumb": "cursive_writing/t_thumb.png"
+        },
+        {
+          "id": "u",
+          "title": "Letter U",
+          "image": "cursive_writing/u.png",
+          "thumb": "cursive_writing/u_thumb.png"
+        },
+        {
+          "id": "v",
+          "title": "Letter V",
+          "image": "cursive_writing/v.png",
+          "thumb": "cursive_writing/v_thumb.png"
+        },
+        {
+          "id": "w",
+          "title": "Letter W",
+          "image": "cursive_writing/w.png",
+          "thumb": "cursive_writing/w_thumb.png"
+        },
+        {
+          "id": "x",
+          "title": "Letter X",
+          "image": "cursive_writing/x.png",
+          "thumb": "cursive_writing/x_thumb.png"
+        },
+        {
+          "id": "y",
+          "title": "Letter Y",
+          "image": "cursive_writing/y.png",
+          "thumb": "cursive_writing/y_thumb.png"
+        },
+        {
+          "id": "z",
+          "title": "Letter Z",
+          "image": "cursive_writing/z.png",
+          "thumb": "cursive_writing/z_thumb.png"
+        }
       ]
     }
   ]
