@@ -73,6 +73,60 @@
         { "id": "07", "title": "Anemone",    "image": "mandala_ocean/07.png", "thumb": "mandala_ocean/07_thumb.png" },
         { "id": "08", "title": "Nautilus",   "image": "mandala_ocean/08.png", "thumb": "mandala_ocean/08_thumb.png" }
       ]
+    },
+    {
+      "id": "coloring_unicorns",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_unicorns",
+      "title": "Unicorns & Friends",
+      "subtitle": "8 magical creatures to color",
+      "category": "coloring",
+      "thumb": "coloring_unicorns/cover.png",
+      "pages": [
+        { "id": "01", "title": "Unicorn",       "image": "coloring_unicorns/01.png", "thumb": "coloring_unicorns/01_thumb.png" },
+        { "id": "02", "title": "Baby Unicorn",  "image": "coloring_unicorns/02.png", "thumb": "coloring_unicorns/02_thumb.png" },
+        { "id": "03", "title": "Pegasus",       "image": "coloring_unicorns/03.png", "thumb": "coloring_unicorns/03_thumb.png" },
+        { "id": "04", "title": "Baby Dragon",   "image": "coloring_unicorns/04.png", "thumb": "coloring_unicorns/04_thumb.png" },
+        { "id": "05", "title": "Mermaid",       "image": "coloring_unicorns/05.png", "thumb": "coloring_unicorns/05_thumb.png" },
+        { "id": "06", "title": "Fairy",         "image": "coloring_unicorns/06.png", "thumb": "coloring_unicorns/06_thumb.png" },
+        { "id": "07", "title": "Magic Stars",   "image": "coloring_unicorns/07.png", "thumb": "coloring_unicorns/07_thumb.png" },
+        { "id": "08", "title": "Narwhal",       "image": "coloring_unicorns/08.png", "thumb": "coloring_unicorns/08_thumb.png" }
+      ]
+    },
+    {
+      "id": "coloring_nature",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_nature",
+      "title": "Flowers & Nature",
+      "subtitle": "8 nature scenes to color",
+      "category": "coloring",
+      "thumb": "coloring_nature/cover.png",
+      "pages": [
+        { "id": "01", "title": "Rose",        "image": "coloring_nature/01.png", "thumb": "coloring_nature/01_thumb.png" },
+        { "id": "02", "title": "Sunflower",   "image": "coloring_nature/02.png", "thumb": "coloring_nature/02_thumb.png" },
+        { "id": "03", "title": "Tulips",      "image": "coloring_nature/03.png", "thumb": "coloring_nature/03_thumb.png" },
+        { "id": "04", "title": "Daisy",       "image": "coloring_nature/04.png", "thumb": "coloring_nature/04_thumb.png" },
+        { "id": "05", "title": "Tree",        "image": "coloring_nature/05.png", "thumb": "coloring_nature/05_thumb.png" },
+        { "id": "06", "title": "Butterfly",   "image": "coloring_nature/06.png", "thumb": "coloring_nature/06_thumb.png" },
+        { "id": "07", "title": "House Plant", "image": "coloring_nature/07.png", "thumb": "coloring_nature/07_thumb.png" },
+        { "id": "08", "title": "Mushrooms",   "image": "coloring_nature/08.png", "thumb": "coloring_nature/08_thumb.png" }
+      ]
+    },
+    {
+      "id": "coloring_heroes",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_heroes",
+      "title": "Super Heroes",
+      "subtitle": "8 original heroes to color",
+      "category": "coloring",
+      "thumb": "coloring_heroes/cover.png",
+      "pages": [
+        { "id": "01", "title": "Caped Hero",  "image": "coloring_heroes/01.png", "thumb": "coloring_heroes/01_thumb.png" },
+        { "id": "02", "title": "Hero Girl",   "image": "coloring_heroes/02.png", "thumb": "coloring_heroes/02_thumb.png" },
+        { "id": "03", "title": "Brave Hero",  "image": "coloring_heroes/03.png", "thumb": "coloring_heroes/03_thumb.png" },
+        { "id": "04", "title": "Hero Pup",    "image": "coloring_heroes/04.png", "thumb": "coloring_heroes/04_thumb.png" },
+        { "id": "05", "title": "Kid Hero",    "image": "coloring_heroes/05.png", "thumb": "coloring_heroes/05_thumb.png" },
+        { "id": "06", "title": "Robot Hero",  "image": "coloring_heroes/06.png", "thumb": "coloring_heroes/06_thumb.png" },
+        { "id": "07", "title": "Shield Hero", "image": "coloring_heroes/07.png", "thumb": "coloring_heroes/07_thumb.png" },
+        { "id": "08", "title": "Hero Cat",    "image": "coloring_heroes/08.png", "thumb": "coloring_heroes/08_thumb.png" }
+      ]
     }
   ]
 }
