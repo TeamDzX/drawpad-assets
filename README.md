@@ -9,7 +9,7 @@ Served free via the [jsDelivr](https://www.jsdelivr.com/) CDN straight from GitH
 
 ## App icon
 
-The current paint-splash icon (rainbow paint burst on white).
+The current icon: a glossy rainbow petal-mandala flower on a soft white background (full-bleed, no border).
 
 | Asset | Size | CDN URL |
 |-------|------|---------|
