@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "base": "https://cdn.jsdelivr.net/gh/TeamDzX/drawpad-assets@main/packs",
+  "packs": [
+    {
+      "id": "coloring_animals",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_animals",
+      "title": "Animal Friends",
+      "subtitle": "8 friendly animals to color",
+      "category": "coloring",
+      "thumb": "coloring_animals/cover.png",
+      "pages": [
+        { "id": "01", "title": "Lion",     "image": "coloring_animals/01.png", "thumb": "coloring_animals/01_thumb.png" },
+        { "id": "02", "title": "Elephant", "image": "coloring_animals/02.png", "thumb": "coloring_animals/02_thumb.png" },
+        { "id": "03", "title": "Giraffe",  "image": "coloring_animals/03.png", "thumb": "coloring_animals/03_thumb.png" },
+        { "id": "04", "title": "Owl",      "image": "coloring_animals/04.png", "thumb": "coloring_animals/04_thumb.png" },
+        { "id": "05", "title": "Fox",      "image": "coloring_animals/05.png", "thumb": "coloring_animals/05_thumb.png" },
+        { "id": "06", "title": "Rabbit",   "image": "coloring_animals/06.png", "thumb": "coloring_animals/06_thumb.png" },
+        { "id": "07", "title": "Bear",     "image": "coloring_animals/07.png", "thumb": "coloring_animals/07_thumb.png" },
+        { "id": "08", "title": "Turtle",   "image": "coloring_animals/08.png", "thumb": "coloring_animals/08_thumb.png" }
+      ]
+    },
+    {
+      "id": "coloring_vehicles",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_vehicles",
+      "title": "Things That Go",
+      "subtitle": "8 vehicles to color",
+      "category": "coloring",
+      "thumb": "coloring_vehicles/cover.png",
+      "pages": [
+        { "id": "01", "title": "Car",      "image": "coloring_vehicles/01.png", "thumb": "coloring_vehicles/01_thumb.png" },
+        { "id": "02", "title": "Train",    "image": "coloring_vehicles/02.png", "thumb": "coloring_vehicles/02_thumb.png" },
+        { "id": "03", "title": "Plane",    "image": "coloring_vehicles/03.png", "thumb": "coloring_vehicles/03_thumb.png" },
+        { "id": "04", "title": "Boat",     "image": "coloring_vehicles/04.png", "thumb": "coloring_vehicles/04_thumb.png" },
+        { "id": "05", "title": "Rocket",   "image": "coloring_vehicles/05.png", "thumb": "coloring_vehicles/05_thumb.png" },
+        { "id": "06", "title": "Tractor",  "image": "coloring_vehicles/06.png", "thumb": "coloring_vehicles/06_thumb.png" },
+        { "id": "07", "title": "Bus",      "image": "coloring_vehicles/07.png", "thumb": "coloring_vehicles/07_thumb.png" },
+        { "id": "08", "title": "Digger",   "image": "coloring_vehicles/08.png", "thumb": "coloring_vehicles/08_thumb.png" }
+      ]
+    },
+    {
+      "id": "mandala_starter",
+      "productID": "TeamDzX.Drawing-App.pack.mandala_starter",
+      "title": "Starter Mandalas",
+      "subtitle": "8 classic mandalas",
+      "category": "mandala",
+      "thumb": "mandala_starter/cover.png",
+      "pages": [
+        { "id": "01", "title": "Bloom",    "image": "mandala_starter/01.png", "thumb": "mandala_starter/01_thumb.png" },
+        { "id": "02", "title": "Petals",   "image": "mandala_starter/02.png", "thumb": "mandala_starter/02_thumb.png" },
+        { "id": "03", "title": "Star",     "image": "mandala_starter/03.png", "thumb": "mandala_starter/03_thumb.png" },
+        { "id": "04", "title": "Lotus",    "image": "mandala_starter/04.png", "thumb": "mandala_starter/04_thumb.png" },
+        { "id": "05", "title": "Spiral",   "image": "mandala_starter/05.png", "thumb": "mandala_starter/05_thumb.png" },
+        { "id": "06", "title": "Sun",      "image": "mandala_starter/06.png", "thumb": "mandala_starter/06_thumb.png" },
+        { "id": "07", "title": "Weave",    "image": "mandala_starter/07.png", "thumb": "mandala_starter/07_thumb.png" },
+        { "id": "08", "title": "Snowflake","image": "mandala_starter/08.png", "thumb": "mandala_starter/08_thumb.png" }
+      ]
+    },
+    {
+      "id": "mandala_ocean",
+      "productID": "TeamDzX.Drawing-App.pack.mandala_ocean",
+      "title": "Ocean Mandalas",
+      "subtitle": "8 sea-themed mandalas",
+      "category": "mandala",
+      "thumb": "mandala_ocean/cover.png",
+      "pages": [
+        { "id": "01", "title": "Shell",      "image": "mandala_ocean/01.png", "thumb": "mandala_ocean/01_thumb.png" },
+        { "id": "02", "title": "Wave",       "image": "mandala_ocean/02.png", "thumb": "mandala_ocean/02_thumb.png" },
+        { "id": "03", "title": "Coral",      "image": "mandala_ocean/03.png", "thumb": "mandala_ocean/03_thumb.png" },
+        { "id": "04", "title": "Starfish",   "image": "mandala_ocean/04.png", "thumb": "mandala_ocean/04_thumb.png" },
+        { "id": "05", "title": "Seahorse",   "image": "mandala_ocean/05.png", "thumb": "mandala_ocean/05_thumb.png" },
+        { "id": "06", "title": "Jellyfish",  "image": "mandala_ocean/06.png", "thumb": "mandala_ocean/06_thumb.png" },
+        { "id": "07", "title": "Anemone",    "image": "mandala_ocean/07.png", "thumb": "mandala_ocean/07_thumb.png" },
+        { "id": "08", "title": "Nautilus",   "image": "mandala_ocean/08.png", "thumb": "mandala_ocean/08_thumb.png" }
+      ]
+    }
+  ]
+}
