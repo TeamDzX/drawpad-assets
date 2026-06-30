@@ -413,7 +413,7 @@
       "productID": "TeamDzX.Drawing-App.pack.cursive_writing",
       "title": "Cursive Writing",
       "subtitle": "Trace & practice the whole alphabet",
-      "category": "writing",
+      "category": "learning",
       "thumb": "cursive_writing/cover.png",
       "pages": [
         {
@@ -571,6 +571,204 @@
           "title": "Letter Z",
           "image": "cursive_writing/z.png",
           "thumb": "cursive_writing/z_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "learning_numbers",
+      "productID": null,
+      "title": "Numbers 0–9",
+      "subtitle": "Trace the digits 0 to 9",
+      "category": "learning",
+      "thumb": "learning_numbers/cover.png",
+      "pages": [
+        {
+          "id": "0",
+          "title": "Number 0",
+          "image": "learning_numbers/0.png",
+          "thumb": "learning_numbers/0_thumb.png"
+        },
+        {
+          "id": "1",
+          "title": "Number 1",
+          "image": "learning_numbers/1.png",
+          "thumb": "learning_numbers/1_thumb.png"
+        },
+        {
+          "id": "2",
+          "title": "Number 2",
+          "image": "learning_numbers/2.png",
+          "thumb": "learning_numbers/2_thumb.png"
+        },
+        {
+          "id": "3",
+          "title": "Number 3",
+          "image": "learning_numbers/3.png",
+          "thumb": "learning_numbers/3_thumb.png"
+        },
+        {
+          "id": "4",
+          "title": "Number 4",
+          "image": "learning_numbers/4.png",
+          "thumb": "learning_numbers/4_thumb.png"
+        },
+        {
+          "id": "5",
+          "title": "Number 5",
+          "image": "learning_numbers/5.png",
+          "thumb": "learning_numbers/5_thumb.png"
+        },
+        {
+          "id": "6",
+          "title": "Number 6",
+          "image": "learning_numbers/6.png",
+          "thumb": "learning_numbers/6_thumb.png"
+        },
+        {
+          "id": "7",
+          "title": "Number 7",
+          "image": "learning_numbers/7.png",
+          "thumb": "learning_numbers/7_thumb.png"
+        },
+        {
+          "id": "8",
+          "title": "Number 8",
+          "image": "learning_numbers/8.png",
+          "thumb": "learning_numbers/8_thumb.png"
+        },
+        {
+          "id": "9",
+          "title": "Number 9",
+          "image": "learning_numbers/9.png",
+          "thumb": "learning_numbers/9_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "learning_hanzi",
+      "productID": null,
+      "title": "First Chinese Numbers",
+      "subtitle": "Trace 一 to 十 in a 米字格 grid",
+      "category": "learning",
+      "thumb": "learning_hanzi/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "一 (one)",
+          "image": "learning_hanzi/01.png",
+          "thumb": "learning_hanzi/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "二 (two)",
+          "image": "learning_hanzi/02.png",
+          "thumb": "learning_hanzi/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "三 (three)",
+          "image": "learning_hanzi/03.png",
+          "thumb": "learning_hanzi/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "四 (four)",
+          "image": "learning_hanzi/04.png",
+          "thumb": "learning_hanzi/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "五 (five)",
+          "image": "learning_hanzi/05.png",
+          "thumb": "learning_hanzi/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "六 (six)",
+          "image": "learning_hanzi/06.png",
+          "thumb": "learning_hanzi/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "七 (seven)",
+          "image": "learning_hanzi/07.png",
+          "thumb": "learning_hanzi/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "八 (eight)",
+          "image": "learning_hanzi/08.png",
+          "thumb": "learning_hanzi/08_thumb.png"
+        },
+        {
+          "id": "09",
+          "title": "九 (nine)",
+          "image": "learning_hanzi/09.png",
+          "thumb": "learning_hanzi/09_thumb.png"
+        },
+        {
+          "id": "10",
+          "title": "十 (ten)",
+          "image": "learning_hanzi/10.png",
+          "thumb": "learning_hanzi/10_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "dottodot_shapes",
+      "productID": null,
+      "title": "Dot-to-Dot Shapes",
+      "subtitle": "Connect the dots to reveal a picture",
+      "category": "dottodot",
+      "thumb": "dottodot_shapes/cover.png",
+      "pages": [
+        {
+          "id": "star",
+          "title": "Star",
+          "image": "dottodot_shapes/star.png",
+          "thumb": "dottodot_shapes/star_thumb.png"
+        },
+        {
+          "id": "heart",
+          "title": "Heart",
+          "image": "dottodot_shapes/heart.png",
+          "thumb": "dottodot_shapes/heart_thumb.png"
+        },
+        {
+          "id": "flower",
+          "title": "Flower",
+          "image": "dottodot_shapes/flower.png",
+          "thumb": "dottodot_shapes/flower_thumb.png"
+        },
+        {
+          "id": "diamond",
+          "title": "Diamond",
+          "image": "dottodot_shapes/diamond.png",
+          "thumb": "dottodot_shapes/diamond_thumb.png"
+        },
+        {
+          "id": "house",
+          "title": "House",
+          "image": "dottodot_shapes/house.png",
+          "thumb": "dottodot_shapes/house_thumb.png"
+        },
+        {
+          "id": "fish",
+          "title": "Fish",
+          "image": "dottodot_shapes/fish.png",
+          "thumb": "dottodot_shapes/fish_thumb.png"
+        },
+        {
+          "id": "boat",
+          "title": "Boat",
+          "image": "dottodot_shapes/boat.png",
+          "thumb": "dottodot_shapes/boat_thumb.png"
+        },
+        {
+          "id": "tree",
+          "title": "Tree",
+          "image": "dottodot_shapes/tree.png",
+          "thumb": "dottodot_shapes/tree_thumb.png"
         }
       ]
     }
