@@ -235,6 +235,64 @@
       ]
     },
     {
+      "id": "mandala_floral",
+      "productID": "TeamDzX.DrawingApp.pack.mandala_floral",
+      "title": "Floral Mandalas",
+      "subtitle": "8 flower-themed mandalas",
+      "category": "mandala",
+      "thumb": "mandala_floral/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Rose",
+          "image": "mandala_floral/01.png",
+          "thumb": "mandala_floral/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Daisy",
+          "image": "mandala_floral/02.png",
+          "thumb": "mandala_floral/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Lotus",
+          "image": "mandala_floral/03.png",
+          "thumb": "mandala_floral/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Sunflower",
+          "image": "mandala_floral/04.png",
+          "thumb": "mandala_floral/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Tulip",
+          "image": "mandala_floral/05.png",
+          "thumb": "mandala_floral/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Peony",
+          "image": "mandala_floral/06.png",
+          "thumb": "mandala_floral/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Vine",
+          "image": "mandala_floral/07.png",
+          "thumb": "mandala_floral/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Blossom",
+          "image": "mandala_floral/08.png",
+          "thumb": "mandala_floral/08_thumb.png"
+        }
+      ]
+    },
+    {
       "id": "coloring_unicorns",
       "productID": "TeamDzX.Drawing-App.pack.coloring_unicorns",
       "title": "Unicorns & Friends",
@@ -715,6 +773,64 @@
       ]
     },
     {
+      "id": "learning_shapes",
+      "productID": "TeamDzX.DrawingApp.pack.learning_shapes",
+      "title": "Trace the Shapes",
+      "subtitle": "8 shapes to trace",
+      "category": "learning",
+      "thumb": "learning_shapes/cover.png",
+      "pages": [
+        {
+          "id": "circle",
+          "title": "Circle",
+          "image": "learning_shapes/circle.png",
+          "thumb": "learning_shapes/circle_thumb.png"
+        },
+        {
+          "id": "square",
+          "title": "Square",
+          "image": "learning_shapes/square.png",
+          "thumb": "learning_shapes/square_thumb.png"
+        },
+        {
+          "id": "triangle",
+          "title": "Triangle",
+          "image": "learning_shapes/triangle.png",
+          "thumb": "learning_shapes/triangle_thumb.png"
+        },
+        {
+          "id": "rectangle",
+          "title": "Rectangle",
+          "image": "learning_shapes/rectangle.png",
+          "thumb": "learning_shapes/rectangle_thumb.png"
+        },
+        {
+          "id": "oval",
+          "title": "Oval",
+          "image": "learning_shapes/oval.png",
+          "thumb": "learning_shapes/oval_thumb.png"
+        },
+        {
+          "id": "diamond",
+          "title": "Diamond",
+          "image": "learning_shapes/diamond.png",
+          "thumb": "learning_shapes/diamond_thumb.png"
+        },
+        {
+          "id": "star",
+          "title": "Star",
+          "image": "learning_shapes/star.png",
+          "thumb": "learning_shapes/star_thumb.png"
+        },
+        {
+          "id": "heart",
+          "title": "Heart",
+          "image": "learning_shapes/heart.png",
+          "thumb": "learning_shapes/heart_thumb.png"
+        }
+      ]
+    },
+    {
       "id": "dottodot_shapes",
       "productID": null,
       "title": "Dot-to-Dot Shapes",
@@ -769,6 +885,64 @@
           "title": "Tree",
           "image": "dottodot_shapes/tree.png",
           "thumb": "dottodot_shapes/tree_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "dottodot_animals",
+      "productID": "TeamDzX.DrawingApp.pack.dottodot_animals",
+      "title": "Dot-to-Dot Animals",
+      "subtitle": "8 animals to connect",
+      "category": "dottodot",
+      "thumb": "dottodot_animals/cover.png",
+      "pages": [
+        {
+          "id": "fish",
+          "title": "Fish",
+          "image": "dottodot_animals/fish.png",
+          "thumb": "dottodot_animals/fish_thumb.png"
+        },
+        {
+          "id": "cat",
+          "title": "Cat",
+          "image": "dottodot_animals/cat.png",
+          "thumb": "dottodot_animals/cat_thumb.png"
+        },
+        {
+          "id": "dog",
+          "title": "Dog",
+          "image": "dottodot_animals/dog.png",
+          "thumb": "dottodot_animals/dog_thumb.png"
+        },
+        {
+          "id": "duck",
+          "title": "Duck",
+          "image": "dottodot_animals/duck.png",
+          "thumb": "dottodot_animals/duck_thumb.png"
+        },
+        {
+          "id": "bird",
+          "title": "Bird",
+          "image": "dottodot_animals/bird.png",
+          "thumb": "dottodot_animals/bird_thumb.png"
+        },
+        {
+          "id": "butterfly",
+          "title": "Butterfly",
+          "image": "dottodot_animals/butterfly.png",
+          "thumb": "dottodot_animals/butterfly_thumb.png"
+        },
+        {
+          "id": "snail",
+          "title": "Snail",
+          "image": "dottodot_animals/snail.png",
+          "thumb": "dottodot_animals/snail_thumb.png"
+        },
+        {
+          "id": "crab",
+          "title": "Crab",
+          "image": "dottodot_animals/crab.png",
+          "thumb": "dottodot_animals/crab_thumb.png"
         }
       ]
     }
