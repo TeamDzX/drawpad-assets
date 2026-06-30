@@ -293,6 +293,64 @@
       ]
     },
     {
+      "id": "mandala_cosmic",
+      "productID": "TeamDzX.DrawingApp.pack.mandala_cosmic",
+      "title": "Cosmic Mandalas",
+      "subtitle": "8 celestial mandalas",
+      "category": "mandala",
+      "thumb": "mandala_cosmic/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Sun",
+          "image": "mandala_cosmic/01.png",
+          "thumb": "mandala_cosmic/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Moon",
+          "image": "mandala_cosmic/02.png",
+          "thumb": "mandala_cosmic/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Stars",
+          "image": "mandala_cosmic/03.png",
+          "thumb": "mandala_cosmic/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Planet",
+          "image": "mandala_cosmic/04.png",
+          "thumb": "mandala_cosmic/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Comet",
+          "image": "mandala_cosmic/05.png",
+          "thumb": "mandala_cosmic/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Galaxy",
+          "image": "mandala_cosmic/06.png",
+          "thumb": "mandala_cosmic/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Constellation",
+          "image": "mandala_cosmic/07.png",
+          "thumb": "mandala_cosmic/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Cosmos",
+          "image": "mandala_cosmic/08.png",
+          "thumb": "mandala_cosmic/08_thumb.png"
+        }
+      ]
+    },
+    {
       "id": "coloring_unicorns",
       "productID": "TeamDzX.Drawing-App.pack.coloring_unicorns",
       "title": "Unicorns & Friends",
@@ -943,6 +1001,64 @@
           "title": "Crab",
           "image": "dottodot_animals/crab.png",
           "thumb": "dottodot_animals/crab_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "dottodot_vehicles",
+      "productID": "TeamDzX.DrawingApp.pack.dottodot_vehicles",
+      "title": "Dot-to-Dot Vehicles",
+      "subtitle": "8 vehicles to connect",
+      "category": "dottodot",
+      "thumb": "dottodot_vehicles/cover.png",
+      "pages": [
+        {
+          "id": "car",
+          "title": "Car",
+          "image": "dottodot_vehicles/car.png",
+          "thumb": "dottodot_vehicles/car_thumb.png"
+        },
+        {
+          "id": "truck",
+          "title": "Truck",
+          "image": "dottodot_vehicles/truck.png",
+          "thumb": "dottodot_vehicles/truck_thumb.png"
+        },
+        {
+          "id": "bus",
+          "title": "Bus",
+          "image": "dottodot_vehicles/bus.png",
+          "thumb": "dottodot_vehicles/bus_thumb.png"
+        },
+        {
+          "id": "train",
+          "title": "Train",
+          "image": "dottodot_vehicles/train.png",
+          "thumb": "dottodot_vehicles/train_thumb.png"
+        },
+        {
+          "id": "plane",
+          "title": "Plane",
+          "image": "dottodot_vehicles/plane.png",
+          "thumb": "dottodot_vehicles/plane_thumb.png"
+        },
+        {
+          "id": "rocket",
+          "title": "Rocket",
+          "image": "dottodot_vehicles/rocket.png",
+          "thumb": "dottodot_vehicles/rocket_thumb.png"
+        },
+        {
+          "id": "sailboat",
+          "title": "Sailboat",
+          "image": "dottodot_vehicles/sailboat.png",
+          "thumb": "dottodot_vehicles/sailboat_thumb.png"
+        },
+        {
+          "id": "balloon",
+          "title": "Hot Air Balloon",
+          "image": "dottodot_vehicles/balloon.png",
+          "thumb": "dottodot_vehicles/balloon_thumb.png"
         }
       ]
     }
