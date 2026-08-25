@@ -1877,6 +1877,470 @@
           "thumb": "mandala_seasons/08_thumb.png"
         }
       ]
+    },
+    {
+      "id": "dottodot_sealife",
+      "productID": "TeamDzX.Drawing-App.pack.dottodot_sealife",
+      "title": "Dot-to-Dot Sea Life",
+      "subtitle": "8 sea creatures to connect",
+      "category": "dottodot",
+      "thumb": "dottodot_sealife/cover.png",
+      "pages": [
+        {
+          "id": "octopus-v2",
+          "title": "Octopus",
+          "image": "dottodot_sealife/octopus-v2.png",
+          "thumb": "dottodot_sealife/octopus-v2_thumb.png"
+        },
+        {
+          "id": "whale-v2",
+          "title": "Whale",
+          "image": "dottodot_sealife/whale-v2.png",
+          "thumb": "dottodot_sealife/whale-v2_thumb.png"
+        },
+        {
+          "id": "seahorse-v2",
+          "title": "Seahorse",
+          "image": "dottodot_sealife/seahorse-v2.png",
+          "thumb": "dottodot_sealife/seahorse-v2_thumb.png"
+        },
+        {
+          "id": "starfish-v2",
+          "title": "Starfish",
+          "image": "dottodot_sealife/starfish-v2.png",
+          "thumb": "dottodot_sealife/starfish-v2_thumb.png"
+        },
+        {
+          "id": "jellyfish-v2",
+          "title": "Jellyfish",
+          "image": "dottodot_sealife/jellyfish-v2.png",
+          "thumb": "dottodot_sealife/jellyfish-v2_thumb.png"
+        },
+        {
+          "id": "shark-v2",
+          "title": "Shark",
+          "image": "dottodot_sealife/shark-v2.png",
+          "thumb": "dottodot_sealife/shark-v2_thumb.png"
+        },
+        {
+          "id": "dolphin-v2",
+          "title": "Dolphin",
+          "image": "dottodot_sealife/dolphin-v2.png",
+          "thumb": "dottodot_sealife/dolphin-v2_thumb.png"
+        },
+        {
+          "id": "turtle-v2",
+          "title": "Turtle",
+          "image": "dottodot_sealife/turtle-v2.png",
+          "thumb": "dottodot_sealife/turtle-v2_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "dottodot_treats",
+      "productID": "TeamDzX.Drawing-App.pack.dottodot_treats",
+      "title": "Dot-to-Dot Treats",
+      "subtitle": "8 tasty things to connect",
+      "category": "dottodot",
+      "thumb": "dottodot_treats/cover.png",
+      "pages": [
+        {
+          "id": "cupcake-v2",
+          "title": "Cupcake",
+          "image": "dottodot_treats/cupcake-v2.png",
+          "thumb": "dottodot_treats/cupcake-v2_thumb.png"
+        },
+        {
+          "id": "icecream-v2",
+          "title": "Icecream",
+          "image": "dottodot_treats/icecream-v2.png",
+          "thumb": "dottodot_treats/icecream-v2_thumb.png"
+        },
+        {
+          "id": "apple-v2",
+          "title": "Apple",
+          "image": "dottodot_treats/apple-v2.png",
+          "thumb": "dottodot_treats/apple-v2_thumb.png"
+        },
+        {
+          "id": "banana-v2",
+          "title": "Banana",
+          "image": "dottodot_treats/banana-v2.png",
+          "thumb": "dottodot_treats/banana-v2_thumb.png"
+        },
+        {
+          "id": "pizza-v2",
+          "title": "Pizza",
+          "image": "dottodot_treats/pizza-v2.png",
+          "thumb": "dottodot_treats/pizza-v2_thumb.png"
+        },
+        {
+          "id": "donut-v2",
+          "title": "Donut",
+          "image": "dottodot_treats/donut-v2.png",
+          "thumb": "dottodot_treats/donut-v2_thumb.png"
+        },
+        {
+          "id": "strawberry-v2",
+          "title": "Strawberry",
+          "image": "dottodot_treats/strawberry-v2.png",
+          "thumb": "dottodot_treats/strawberry-v2_thumb.png"
+        },
+        {
+          "id": "cake-v2",
+          "title": "Cake",
+          "image": "dottodot_treats/cake-v2.png",
+          "thumb": "dottodot_treats/cake-v2_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "dottodot_space",
+      "productID": "TeamDzX.Drawing-App.pack.dottodot_space",
+      "title": "Dot-to-Dot Space",
+      "subtitle": "8 space pictures to connect",
+      "category": "dottodot",
+      "thumb": "dottodot_space/cover.png",
+      "pages": [
+        {
+          "id": "planet-v2",
+          "title": "Planet",
+          "image": "dottodot_space/planet-v2.png",
+          "thumb": "dottodot_space/planet-v2_thumb.png"
+        },
+        {
+          "id": "moon-v2",
+          "title": "Moon",
+          "image": "dottodot_space/moon-v2.png",
+          "thumb": "dottodot_space/moon-v2_thumb.png"
+        },
+        {
+          "id": "sun-v2",
+          "title": "Sun",
+          "image": "dottodot_space/sun-v2.png",
+          "thumb": "dottodot_space/sun-v2_thumb.png"
+        },
+        {
+          "id": "ufo-v2",
+          "title": "Ufo",
+          "image": "dottodot_space/ufo-v2.png",
+          "thumb": "dottodot_space/ufo-v2_thumb.png"
+        },
+        {
+          "id": "satellite-v2",
+          "title": "Satellite",
+          "image": "dottodot_space/satellite-v2.png",
+          "thumb": "dottodot_space/satellite-v2_thumb.png"
+        },
+        {
+          "id": "astronaut-v2",
+          "title": "Astronaut",
+          "image": "dottodot_space/astronaut-v2.png",
+          "thumb": "dottodot_space/astronaut-v2_thumb.png"
+        },
+        {
+          "id": "alien-v2",
+          "title": "Alien",
+          "image": "dottodot_space/alien-v2.png",
+          "thumb": "dottodot_space/alien-v2_thumb.png"
+        },
+        {
+          "id": "shootingstar-v2",
+          "title": "Shootingstar",
+          "image": "dottodot_space/shootingstar-v2.png",
+          "thumb": "dottodot_space/shootingstar-v2_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "dottodot_garden",
+      "productID": "TeamDzX.Drawing-App.pack.dottodot_garden",
+      "title": "Dot-to-Dot Garden",
+      "subtitle": "8 garden bugs and plants",
+      "category": "dottodot",
+      "thumb": "dottodot_garden/cover.png",
+      "pages": [
+        {
+          "id": "bee-v2",
+          "title": "Bee",
+          "image": "dottodot_garden/bee-v2.png",
+          "thumb": "dottodot_garden/bee-v2_thumb.png"
+        },
+        {
+          "id": "ladybird-v2",
+          "title": "Ladybird",
+          "image": "dottodot_garden/ladybird-v2.png",
+          "thumb": "dottodot_garden/ladybird-v2_thumb.png"
+        },
+        {
+          "id": "caterpillar-v2",
+          "title": "Caterpillar",
+          "image": "dottodot_garden/caterpillar-v2.png",
+          "thumb": "dottodot_garden/caterpillar-v2_thumb.png"
+        },
+        {
+          "id": "leaf-v2",
+          "title": "Leaf",
+          "image": "dottodot_garden/leaf-v2.png",
+          "thumb": "dottodot_garden/leaf-v2_thumb.png"
+        },
+        {
+          "id": "mushroom-v2",
+          "title": "Mushroom",
+          "image": "dottodot_garden/mushroom-v2.png",
+          "thumb": "dottodot_garden/mushroom-v2_thumb.png"
+        },
+        {
+          "id": "sunflower-v2",
+          "title": "Sunflower",
+          "image": "dottodot_garden/sunflower-v2.png",
+          "thumb": "dottodot_garden/sunflower-v2_thumb.png"
+        },
+        {
+          "id": "dragonfly-v2",
+          "title": "Dragonfly",
+          "image": "dottodot_garden/dragonfly-v2.png",
+          "thumb": "dottodot_garden/dragonfly-v2_thumb.png"
+        },
+        {
+          "id": "acorn-v2",
+          "title": "Acorn",
+          "image": "dottodot_garden/acorn-v2.png",
+          "thumb": "dottodot_garden/acorn-v2_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "coloring_farm",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_farm",
+      "title": "Down on the Farm",
+      "subtitle": "8 farm friends to color",
+      "category": "coloring",
+      "thumb": "coloring_farm/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Cow",
+          "image": "coloring_farm/01.png",
+          "thumb": "coloring_farm/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Pig",
+          "image": "coloring_farm/02.png",
+          "thumb": "coloring_farm/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Sheep",
+          "image": "coloring_farm/03.png",
+          "thumb": "coloring_farm/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Horse",
+          "image": "coloring_farm/04.png",
+          "thumb": "coloring_farm/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Chicken",
+          "image": "coloring_farm/05.png",
+          "thumb": "coloring_farm/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Goat",
+          "image": "coloring_farm/06.png",
+          "thumb": "coloring_farm/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Barn",
+          "image": "coloring_farm/07.png",
+          "thumb": "coloring_farm/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Scarecrow",
+          "image": "coloring_farm/08.png",
+          "thumb": "coloring_farm/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "coloring_jungle",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_jungle",
+      "title": "Jungle Friends",
+      "subtitle": "8 jungle animals to color",
+      "category": "coloring",
+      "thumb": "coloring_jungle/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Monkey",
+          "image": "coloring_jungle/01.png",
+          "thumb": "coloring_jungle/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Tiger",
+          "image": "coloring_jungle/02.png",
+          "thumb": "coloring_jungle/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Parrot",
+          "image": "coloring_jungle/03.png",
+          "thumb": "coloring_jungle/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Snake",
+          "image": "coloring_jungle/04.png",
+          "thumb": "coloring_jungle/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Crocodile",
+          "image": "coloring_jungle/05.png",
+          "thumb": "coloring_jungle/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Hippo",
+          "image": "coloring_jungle/06.png",
+          "thumb": "coloring_jungle/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Zebra",
+          "image": "coloring_jungle/07.png",
+          "thumb": "coloring_jungle/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Toucan",
+          "image": "coloring_jungle/08.png",
+          "thumb": "coloring_jungle/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "mandala_butterflies",
+      "productID": "TeamDzX.Drawing-App.pack.mandala_butterflies",
+      "title": "Butterfly Mandalas",
+      "subtitle": "8 butterfly and wing mandalas",
+      "category": "mandala",
+      "thumb": "mandala_butterflies/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Monarch",
+          "image": "mandala_butterflies/01.png",
+          "thumb": "mandala_butterflies/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Swallowtail",
+          "image": "mandala_butterflies/02.png",
+          "thumb": "mandala_butterflies/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Wing Lace",
+          "image": "mandala_butterflies/03.png",
+          "thumb": "mandala_butterflies/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Flutter",
+          "image": "mandala_butterflies/04.png",
+          "thumb": "mandala_butterflies/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Moth",
+          "image": "mandala_butterflies/05.png",
+          "thumb": "mandala_butterflies/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Chrysalis",
+          "image": "mandala_butterflies/06.png",
+          "thumb": "mandala_butterflies/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Meadow",
+          "image": "mandala_butterflies/07.png",
+          "thumb": "mandala_butterflies/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Wingspan",
+          "image": "mandala_butterflies/08.png",
+          "thumb": "mandala_butterflies/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "mandala_lace",
+      "productID": "TeamDzX.Drawing-App.pack.mandala_lace",
+      "title": "Lace Mandalas",
+      "subtitle": "8 delicate lace mandalas",
+      "category": "mandala",
+      "thumb": "mandala_lace/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Doily",
+          "image": "mandala_lace/01.png",
+          "thumb": "mandala_lace/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Filigree",
+          "image": "mandala_lace/02.png",
+          "thumb": "mandala_lace/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Snow Lace",
+          "image": "mandala_lace/03.png",
+          "thumb": "mandala_lace/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Scallop",
+          "image": "mandala_lace/04.png",
+          "thumb": "mandala_lace/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Ribbon",
+          "image": "mandala_lace/05.png",
+          "thumb": "mandala_lace/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Rosette",
+          "image": "mandala_lace/06.png",
+          "thumb": "mandala_lace/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Web",
+          "image": "mandala_lace/07.png",
+          "thumb": "mandala_lace/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Damask",
+          "image": "mandala_lace/08.png",
+          "thumb": "mandala_lace/08_thumb.png"
+        }
+      ]
     }
   ]
 }

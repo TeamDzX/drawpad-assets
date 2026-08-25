@@ -10,8 +10,10 @@ the pipeline is only reproducible if the prompt lives in the repo.
 # Shared tail. "no text" matters: Flux will happily letter a sign or a birthday
 # cake, and the app has no way to erase it.
 BASE = ("black and white coloring book page, thick clean black outlines, "
-        "uniform line weight, no shading, no hatching, no grey, no fill, "
-        "no colour, pure white background, centered composition, no text, "
+        "uniform line weight, outline drawing only, every shape left empty "
+        "and white inside, no solid black areas, no filled shapes, no "
+        "silhouettes, no shading, no hatching, no grey, no fill, no colour, "
+        "pure white background, centered composition, no text, "
         "no watermark, no signature")
 
 # Kids' coloring pages: bold lines a fat brush can stay inside of.
@@ -86,6 +88,30 @@ COLORING_PACKS = [
              ("07", "Magic Book", "an open cartoon spell book with stars and swirls rising from the pages, no text"),
              ("08", "Toadstool House", "a cartoon toadstool cottage with a round door, small windows and a path"),
          ]),
+    dict(id="coloring_farm", title="Down on the Farm",
+         subtitle="8 farm friends to color",
+         pages=[
+             ("01", "Cow", "a friendly cartoon cow standing side on with a patched coat and a bell collar"),
+             ("02", "Pig", "a chubby happy cartoon pig standing side on with a curly tail"),
+             ("03", "Sheep", "a fluffy cartoon sheep with a woolly coat standing in short grass"),
+             ("04", "Horse", "a friendly cartoon horse standing side on with a flowing mane and tail"),
+             ("05", "Chicken", "a plump cartoon hen pecking, with a comb and tail feathers"),
+             ("06", "Goat", "a cheerful cartoon goat with small curved horns and a little beard"),
+             ("07", "Barn", "a cartoon barn with big double doors, a hayloft window and a weather vane"),
+             ("08", "Scarecrow", "a friendly cartoon scarecrow on a post with a straw hat and patched clothes"),
+         ]),
+    dict(id="coloring_jungle", title="Jungle Friends",
+         subtitle="8 jungle animals to color",
+         pages=[
+             ("01", "Monkey", "a cheeky cartoon monkey hanging from a branch by one arm"),
+             ("02", "Tiger", "a friendly cartoon tiger sitting, with bold stripes and a round face"),
+             ("03", "Parrot", "a cartoon parrot perched on a branch with a curved beak and long tail feathers"),
+             ("04", "Snake", "a smiling cartoon snake coiled in loops with a patterned back"),
+             ("05", "Crocodile", "a friendly cartoon crocodile lying down with a long snout and bumpy back"),
+             ("06", "Hippo", "a chubby happy cartoon hippo standing in shallow water"),
+             ("07", "Zebra", "a cartoon zebra standing side on with an upright mane, its stripes drawn as empty outlined bands with white interiors, no black fill anywhere"),
+             ("08", "Toucan", "a cartoon toucan perched on a branch with a very large curved beak"),
+         ]),
 ]
 
 MANDALA_PACKS = [
@@ -136,6 +162,30 @@ MANDALA_PACKS = [
              ("06", "Harvest", "wheat sheaves, berries and seeds radiating in concentric rings"),
              ("07", "Frost", "delicate frost crystal ferns radiating from the centre, six fold symmetry"),
              ("08", "Midsummer", "sunflowers and long leaves radiating outward, eight fold symmetry"),
+         ]),
+    dict(id="mandala_butterflies", title="Butterfly Mandalas",
+         subtitle="8 butterfly and wing mandalas",
+         pages=[
+             ("01", "Monarch", "four symmetrical butterfly wings radiating from an ornate centre, the wing markings drawn as empty outlined cells with white interiors, stained glass style, no black fill anywhere"),
+             ("02", "Swallowtail", "swallowtail butterflies with long tailed wings arranged in a ring"),
+             ("03", "Wing Lace", "a single large symmetrical butterfly with lace patterned wings filling the circle"),
+             ("04", "Flutter", "eight small butterflies radiating outward around a floral centre"),
+             ("05", "Moth", "a symmetrical moth with feathered antennae and patterned wings, ornate border"),
+             ("06", "Chrysalis", "chrysalises and leaves radiating in concentric rings around a butterfly centre"),
+             ("07", "Meadow", "butterflies and wildflowers alternating in concentric rings"),
+             ("08", "Wingspan", "two large mirrored butterfly wings forming a circular mandala, ornate scales"),
+         ]),
+    dict(id="mandala_lace", title="Lace Mandalas",
+         subtitle="8 delicate lace mandalas",
+         pages=[
+             ("01", "Doily", "a crocheted doily pattern with scalloped edges and open lace work"),
+             ("02", "Filigree", "fine metal filigree scrollwork radiating in concentric rings"),
+             ("03", "Snow Lace", "a lace snowflake with delicate crystalline branches, six fold symmetry"),
+             ("04", "Scallop", "concentric rings of scalloped lace edging with small open eyelets"),
+             ("05", "Ribbon", "interwoven lace ribbons looping around a circular frame"),
+             ("06", "Rosette", "a lace rosette of layered petals with picot edging"),
+             ("07", "Web", "a fine lace web of radiating threads and knotted joins, twelve fold symmetry"),
+             ("08", "Damask", "a damask lace pattern of leaves and scrolls in concentric bands"),
          ]),
 ]
 

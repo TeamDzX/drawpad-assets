@@ -31,6 +31,29 @@ warnings = []
 
 sizes = {}
 
+# Flux sometimes renders a toucan's plumage or a monarch's wing markings as
+# solid black. Those areas cannot be coloured in, which defeats the page.
+#
+# Total ink coverage does NOT detect this: dense fine linework (lace mandalas)
+# scores as high as a filled silhouette. Downsampling hard is what separates
+# them — a solid region stays black through a box filter, while hatching and
+# thin outlines average out to grey. Measured across the shipped packs, clean
+# line art scores under 0.004 and genuine fills score 0.06-0.12.
+#
+# Set to catch only the egregious cases. Plenty of good pages carry small
+# deliberate dark areas — a donut's sprinkles, a cookie's chocolate chips, an
+# animal's eyes — and score 0.01-0.05, so a tighter limit buries the real
+# problems in noise. This is a coarse net, not a substitute for looking at the
+# contact sheet.
+BLOB_LIMIT = 0.060
+
+
+def solid_blob_ratio(path, size=48, thr=70):
+    """Fraction of the page held by large contiguous dark areas."""
+    g = Image.open(path).convert("L").resize((size, size), Image.BOX)
+    px = list(g.getdata())
+    return sum(1 for v in px if v < thr) / float(len(px))
+
 
 def check(rel, kind):
     """A missing file is fatal — it renders as a broken tile in the Store with
@@ -65,6 +88,13 @@ for p in m["packs"]:
             errors.append("%s: duplicate page id %s" % (p["id"], pg["id"]))
         page_ids.add(pg["id"])
         check(pg["image"], "page")
+        if p["category"] in ("coloring", "mandala"):
+            full = os.path.join(packlib.PACKS_DIR, pg["image"])
+            if os.path.exists(full):
+                blob = solid_blob_ratio(full)
+                if blob > BLOB_LIMIT:
+                    warnings.append("%s: solid black areas (%.3f) — reroll, "
+                                    "they cannot be coloured in" % (pg["image"], blob))
         if pg.get("thumb"):
             check(pg["thumb"], "thumb")
             # A "thumbnail" the size of the page defeats the point of having one.

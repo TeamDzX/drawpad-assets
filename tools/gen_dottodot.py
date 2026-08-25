@@ -46,6 +46,10 @@ TITLES = {
     "dottodot_shapes": ("Dot-to-Dot Shapes", "Connect the dots to reveal a picture"),
     "dottodot_animals": ("Dot-to-Dot Animals", "8 animals to connect"),
     "dottodot_vehicles": ("Dot-to-Dot Vehicles", "8 vehicles to connect"),
+    "dottodot_sealife": ("Dot-to-Dot Sea Life", "8 sea creatures to connect"),
+    "dottodot_treats": ("Dot-to-Dot Treats", "8 tasty things to connect"),
+    "dottodot_space": ("Dot-to-Dot Space", "8 space pictures to connect"),
+    "dottodot_garden": ("Dot-to-Dot Garden", "8 garden bugs and plants"),
 }
 
 
