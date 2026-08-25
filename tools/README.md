@@ -13,6 +13,15 @@ scripts exist to prevent — **the prompt is part of the asset**.
 | `dottodot` | `gen_dottodot.py` (code) | A diffusion model cannot render legible sequential numbers, and the dots must lie on a path that closes into the subject. |
 | `learning` | `gen_learning.py` (code) | A tracing sheet is worthless if the letterform is subtly wrong. Flux also garbles hanzi outright. |
 
+`gen_promo.py` additionally builds the 1024x1024 promoted-IAP tiles in
+`promo/` — **one per product, not per pack**. Entitlement is a single
+non-consumable per category, so there are exactly four promotable products no
+matter how many packs ship. The per-pack tiles still in `promo/`
+(`coloring_animals.png` and friends) predate the switch to category unlocks and
+App Store Connect has nowhere to attach them; they are kept only as marketing
+art. Promo tiles are uploaded to App Store Connect by hand — nothing fetches
+them from the CDN.
+
 ## Usage
 
 ```sh
@@ -22,6 +31,9 @@ python3 tools/gen_lineart.py --page 03 --reseed 7 coloring_ocean   # reroll a ba
 
 python3 tools/gen_dottodot.py [pack_id ...]
 python3 tools/gen_learning.py [pack_id ...]
+
+python3 tools/gen_promo.py                    # any category tile not yet present
+python3 tools/gen_promo.py --force mandala    # redo one
 ```
 
 Each script writes pages, `_thumb`s, `cover.png` and `cover_web.jpg`, then
