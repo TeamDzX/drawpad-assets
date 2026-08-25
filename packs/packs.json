@@ -890,175 +890,991 @@
     },
     {
       "id": "dottodot_shapes",
-      "productID": null,
+      "productID": "TeamDzX.Drawing-App.pack.dottodot_shapes",
       "title": "Dot-to-Dot Shapes",
       "subtitle": "Connect the dots to reveal a picture",
       "category": "dottodot",
       "thumb": "dottodot_shapes/cover.png",
       "pages": [
         {
-          "id": "star",
+          "id": "star-v2",
           "title": "Star",
-          "image": "dottodot_shapes/star.png",
-          "thumb": "dottodot_shapes/star_thumb.png"
+          "image": "dottodot_shapes/star-v2.png",
+          "thumb": "dottodot_shapes/star-v2_thumb.png"
         },
         {
-          "id": "heart",
+          "id": "heart-v2",
           "title": "Heart",
-          "image": "dottodot_shapes/heart.png",
-          "thumb": "dottodot_shapes/heart_thumb.png"
+          "image": "dottodot_shapes/heart-v2.png",
+          "thumb": "dottodot_shapes/heart-v2_thumb.png"
         },
         {
-          "id": "flower",
+          "id": "flower-v2",
           "title": "Flower",
-          "image": "dottodot_shapes/flower.png",
-          "thumb": "dottodot_shapes/flower_thumb.png"
+          "image": "dottodot_shapes/flower-v2.png",
+          "thumb": "dottodot_shapes/flower-v2_thumb.png"
         },
         {
-          "id": "diamond",
+          "id": "diamond-v2",
           "title": "Diamond",
-          "image": "dottodot_shapes/diamond.png",
-          "thumb": "dottodot_shapes/diamond_thumb.png"
+          "image": "dottodot_shapes/diamond-v2.png",
+          "thumb": "dottodot_shapes/diamond-v2_thumb.png"
         },
         {
-          "id": "house",
+          "id": "house-v2",
           "title": "House",
-          "image": "dottodot_shapes/house.png",
-          "thumb": "dottodot_shapes/house_thumb.png"
+          "image": "dottodot_shapes/house-v2.png",
+          "thumb": "dottodot_shapes/house-v2_thumb.png"
         },
         {
-          "id": "fish",
+          "id": "fish-v2",
           "title": "Fish",
-          "image": "dottodot_shapes/fish.png",
-          "thumb": "dottodot_shapes/fish_thumb.png"
+          "image": "dottodot_shapes/fish-v2.png",
+          "thumb": "dottodot_shapes/fish-v2_thumb.png"
         },
         {
-          "id": "boat",
+          "id": "boat-v2",
           "title": "Boat",
-          "image": "dottodot_shapes/boat.png",
-          "thumb": "dottodot_shapes/boat_thumb.png"
+          "image": "dottodot_shapes/boat-v2.png",
+          "thumb": "dottodot_shapes/boat-v2_thumb.png"
         },
         {
-          "id": "tree",
+          "id": "tree-v2",
           "title": "Tree",
-          "image": "dottodot_shapes/tree.png",
-          "thumb": "dottodot_shapes/tree_thumb.png"
+          "image": "dottodot_shapes/tree-v2.png",
+          "thumb": "dottodot_shapes/tree-v2_thumb.png"
         }
       ]
     },
     {
       "id": "dottodot_animals",
-      "productID": "TeamDzX.DrawingApp.pack.dottodot_animals",
+      "productID": "TeamDzX.Drawing-App.pack.dottodot_animals",
       "title": "Dot-to-Dot Animals",
       "subtitle": "8 animals to connect",
       "category": "dottodot",
       "thumb": "dottodot_animals/cover.png",
       "pages": [
         {
-          "id": "fish",
+          "id": "fish-v2",
           "title": "Fish",
-          "image": "dottodot_animals/fish.png",
-          "thumb": "dottodot_animals/fish_thumb.png"
+          "image": "dottodot_animals/fish-v2.png",
+          "thumb": "dottodot_animals/fish-v2_thumb.png"
         },
         {
-          "id": "cat",
+          "id": "cat-v2",
           "title": "Cat",
-          "image": "dottodot_animals/cat.png",
-          "thumb": "dottodot_animals/cat_thumb.png"
+          "image": "dottodot_animals/cat-v2.png",
+          "thumb": "dottodot_animals/cat-v2_thumb.png"
         },
         {
-          "id": "dog",
+          "id": "dog-v2",
           "title": "Dog",
-          "image": "dottodot_animals/dog.png",
-          "thumb": "dottodot_animals/dog_thumb.png"
+          "image": "dottodot_animals/dog-v2.png",
+          "thumb": "dottodot_animals/dog-v2_thumb.png"
         },
         {
-          "id": "duck",
+          "id": "duck-v2",
           "title": "Duck",
-          "image": "dottodot_animals/duck.png",
-          "thumb": "dottodot_animals/duck_thumb.png"
+          "image": "dottodot_animals/duck-v2.png",
+          "thumb": "dottodot_animals/duck-v2_thumb.png"
         },
         {
-          "id": "bird",
+          "id": "bird-v2",
           "title": "Bird",
-          "image": "dottodot_animals/bird.png",
-          "thumb": "dottodot_animals/bird_thumb.png"
+          "image": "dottodot_animals/bird-v2.png",
+          "thumb": "dottodot_animals/bird-v2_thumb.png"
         },
         {
-          "id": "butterfly",
+          "id": "butterfly-v2",
           "title": "Butterfly",
-          "image": "dottodot_animals/butterfly.png",
-          "thumb": "dottodot_animals/butterfly_thumb.png"
+          "image": "dottodot_animals/butterfly-v2.png",
+          "thumb": "dottodot_animals/butterfly-v2_thumb.png"
         },
         {
-          "id": "snail",
+          "id": "snail-v2",
           "title": "Snail",
-          "image": "dottodot_animals/snail.png",
-          "thumb": "dottodot_animals/snail_thumb.png"
+          "image": "dottodot_animals/snail-v2.png",
+          "thumb": "dottodot_animals/snail-v2_thumb.png"
         },
         {
-          "id": "crab",
+          "id": "crab-v2",
           "title": "Crab",
-          "image": "dottodot_animals/crab.png",
-          "thumb": "dottodot_animals/crab_thumb.png"
+          "image": "dottodot_animals/crab-v2.png",
+          "thumb": "dottodot_animals/crab-v2_thumb.png"
         }
       ]
     },
     {
       "id": "dottodot_vehicles",
-      "productID": "TeamDzX.DrawingApp.pack.dottodot_vehicles",
+      "productID": "TeamDzX.Drawing-App.pack.dottodot_vehicles",
       "title": "Dot-to-Dot Vehicles",
       "subtitle": "8 vehicles to connect",
       "category": "dottodot",
       "thumb": "dottodot_vehicles/cover.png",
       "pages": [
         {
-          "id": "car",
+          "id": "car-v2",
           "title": "Car",
-          "image": "dottodot_vehicles/car.png",
-          "thumb": "dottodot_vehicles/car_thumb.png"
+          "image": "dottodot_vehicles/car-v2.png",
+          "thumb": "dottodot_vehicles/car-v2_thumb.png"
         },
         {
-          "id": "truck",
+          "id": "truck-v2",
           "title": "Truck",
-          "image": "dottodot_vehicles/truck.png",
-          "thumb": "dottodot_vehicles/truck_thumb.png"
+          "image": "dottodot_vehicles/truck-v2.png",
+          "thumb": "dottodot_vehicles/truck-v2_thumb.png"
         },
         {
-          "id": "bus",
+          "id": "bus-v2",
           "title": "Bus",
-          "image": "dottodot_vehicles/bus.png",
-          "thumb": "dottodot_vehicles/bus_thumb.png"
+          "image": "dottodot_vehicles/bus-v2.png",
+          "thumb": "dottodot_vehicles/bus-v2_thumb.png"
         },
         {
-          "id": "train",
+          "id": "train-v2",
           "title": "Train",
-          "image": "dottodot_vehicles/train.png",
-          "thumb": "dottodot_vehicles/train_thumb.png"
+          "image": "dottodot_vehicles/train-v2.png",
+          "thumb": "dottodot_vehicles/train-v2_thumb.png"
         },
         {
-          "id": "plane",
+          "id": "plane-v2",
           "title": "Plane",
-          "image": "dottodot_vehicles/plane.png",
-          "thumb": "dottodot_vehicles/plane_thumb.png"
+          "image": "dottodot_vehicles/plane-v2.png",
+          "thumb": "dottodot_vehicles/plane-v2_thumb.png"
         },
         {
-          "id": "rocket",
+          "id": "rocket-v2",
           "title": "Rocket",
-          "image": "dottodot_vehicles/rocket.png",
-          "thumb": "dottodot_vehicles/rocket_thumb.png"
+          "image": "dottodot_vehicles/rocket-v2.png",
+          "thumb": "dottodot_vehicles/rocket-v2_thumb.png"
         },
         {
-          "id": "sailboat",
+          "id": "sailboat-v2",
           "title": "Sailboat",
-          "image": "dottodot_vehicles/sailboat.png",
-          "thumb": "dottodot_vehicles/sailboat_thumb.png"
+          "image": "dottodot_vehicles/sailboat-v2.png",
+          "thumb": "dottodot_vehicles/sailboat-v2_thumb.png"
         },
         {
-          "id": "balloon",
-          "title": "Hot Air Balloon",
-          "image": "dottodot_vehicles/balloon.png",
-          "thumb": "dottodot_vehicles/balloon_thumb.png"
+          "id": "balloon-v2",
+          "title": "Balloon",
+          "image": "dottodot_vehicles/balloon-v2.png",
+          "thumb": "dottodot_vehicles/balloon-v2_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "coloring_ocean",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_ocean",
+      "title": "Under the Sea",
+      "subtitle": "8 sea creatures to color",
+      "category": "coloring",
+      "thumb": "coloring_ocean/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Dolphin",
+          "image": "coloring_ocean/01.png",
+          "thumb": "coloring_ocean/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Octopus",
+          "image": "coloring_ocean/02.png",
+          "thumb": "coloring_ocean/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Seahorse",
+          "image": "coloring_ocean/03.png",
+          "thumb": "coloring_ocean/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Whale",
+          "image": "coloring_ocean/04.png",
+          "thumb": "coloring_ocean/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Starfish",
+          "image": "coloring_ocean/05.png",
+          "thumb": "coloring_ocean/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Crab",
+          "image": "coloring_ocean/06.png",
+          "thumb": "coloring_ocean/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Jellyfish",
+          "image": "coloring_ocean/07.png",
+          "thumb": "coloring_ocean/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Clownfish",
+          "image": "coloring_ocean/08.png",
+          "thumb": "coloring_ocean/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "coloring_dinosaurs",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_dinosaurs",
+      "title": "Dino Days",
+      "subtitle": "8 friendly dinosaurs to color",
+      "category": "coloring",
+      "thumb": "coloring_dinosaurs/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "T-Rex",
+          "image": "coloring_dinosaurs/01.png",
+          "thumb": "coloring_dinosaurs/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Triceratops",
+          "image": "coloring_dinosaurs/02.png",
+          "thumb": "coloring_dinosaurs/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Stegosaurus",
+          "image": "coloring_dinosaurs/03.png",
+          "thumb": "coloring_dinosaurs/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Long Neck",
+          "image": "coloring_dinosaurs/04.png",
+          "thumb": "coloring_dinosaurs/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Sky Wings",
+          "image": "coloring_dinosaurs/05.png",
+          "thumb": "coloring_dinosaurs/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Little Raptor",
+          "image": "coloring_dinosaurs/06.png",
+          "thumb": "coloring_dinosaurs/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Club Tail",
+          "image": "coloring_dinosaurs/07.png",
+          "thumb": "coloring_dinosaurs/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Hatchling",
+          "image": "coloring_dinosaurs/08.png",
+          "thumb": "coloring_dinosaurs/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "learning_letters",
+      "productID": "TeamDzX.Drawing-App.pack.learning_letters",
+      "title": "Print Letters",
+      "subtitle": "Trace Aa to Zz",
+      "category": "learning",
+      "thumb": "learning_letters/cover.png",
+      "pages": [
+        {
+          "id": "a",
+          "title": "A a",
+          "image": "learning_letters/a.png",
+          "thumb": "learning_letters/a_thumb.png"
+        },
+        {
+          "id": "b",
+          "title": "B b",
+          "image": "learning_letters/b.png",
+          "thumb": "learning_letters/b_thumb.png"
+        },
+        {
+          "id": "c",
+          "title": "C c",
+          "image": "learning_letters/c.png",
+          "thumb": "learning_letters/c_thumb.png"
+        },
+        {
+          "id": "d",
+          "title": "D d",
+          "image": "learning_letters/d.png",
+          "thumb": "learning_letters/d_thumb.png"
+        },
+        {
+          "id": "e",
+          "title": "E e",
+          "image": "learning_letters/e.png",
+          "thumb": "learning_letters/e_thumb.png"
+        },
+        {
+          "id": "f",
+          "title": "F f",
+          "image": "learning_letters/f.png",
+          "thumb": "learning_letters/f_thumb.png"
+        },
+        {
+          "id": "g",
+          "title": "G g",
+          "image": "learning_letters/g.png",
+          "thumb": "learning_letters/g_thumb.png"
+        },
+        {
+          "id": "h",
+          "title": "H h",
+          "image": "learning_letters/h.png",
+          "thumb": "learning_letters/h_thumb.png"
+        },
+        {
+          "id": "i",
+          "title": "I i",
+          "image": "learning_letters/i.png",
+          "thumb": "learning_letters/i_thumb.png"
+        },
+        {
+          "id": "j",
+          "title": "J j",
+          "image": "learning_letters/j.png",
+          "thumb": "learning_letters/j_thumb.png"
+        },
+        {
+          "id": "k",
+          "title": "K k",
+          "image": "learning_letters/k.png",
+          "thumb": "learning_letters/k_thumb.png"
+        },
+        {
+          "id": "l",
+          "title": "L l",
+          "image": "learning_letters/l.png",
+          "thumb": "learning_letters/l_thumb.png"
+        },
+        {
+          "id": "m",
+          "title": "M m",
+          "image": "learning_letters/m.png",
+          "thumb": "learning_letters/m_thumb.png"
+        },
+        {
+          "id": "n",
+          "title": "N n",
+          "image": "learning_letters/n.png",
+          "thumb": "learning_letters/n_thumb.png"
+        },
+        {
+          "id": "o",
+          "title": "O o",
+          "image": "learning_letters/o.png",
+          "thumb": "learning_letters/o_thumb.png"
+        },
+        {
+          "id": "p",
+          "title": "P p",
+          "image": "learning_letters/p.png",
+          "thumb": "learning_letters/p_thumb.png"
+        },
+        {
+          "id": "q",
+          "title": "Q q",
+          "image": "learning_letters/q.png",
+          "thumb": "learning_letters/q_thumb.png"
+        },
+        {
+          "id": "r",
+          "title": "R r",
+          "image": "learning_letters/r.png",
+          "thumb": "learning_letters/r_thumb.png"
+        },
+        {
+          "id": "s",
+          "title": "S s",
+          "image": "learning_letters/s.png",
+          "thumb": "learning_letters/s_thumb.png"
+        },
+        {
+          "id": "t",
+          "title": "T t",
+          "image": "learning_letters/t.png",
+          "thumb": "learning_letters/t_thumb.png"
+        },
+        {
+          "id": "u",
+          "title": "U u",
+          "image": "learning_letters/u.png",
+          "thumb": "learning_letters/u_thumb.png"
+        },
+        {
+          "id": "v",
+          "title": "V v",
+          "image": "learning_letters/v.png",
+          "thumb": "learning_letters/v_thumb.png"
+        },
+        {
+          "id": "w",
+          "title": "W w",
+          "image": "learning_letters/w.png",
+          "thumb": "learning_letters/w_thumb.png"
+        },
+        {
+          "id": "x",
+          "title": "X x",
+          "image": "learning_letters/x.png",
+          "thumb": "learning_letters/x_thumb.png"
+        },
+        {
+          "id": "y",
+          "title": "Y y",
+          "image": "learning_letters/y.png",
+          "thumb": "learning_letters/y_thumb.png"
+        },
+        {
+          "id": "z",
+          "title": "Z z",
+          "image": "learning_letters/z.png",
+          "thumb": "learning_letters/z_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "learning_counting",
+      "productID": "TeamDzX.Drawing-App.pack.learning_counting",
+      "title": "Count & Trace",
+      "subtitle": "Count the apples, trace the number",
+      "category": "learning",
+      "thumb": "learning_counting/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "1 — one",
+          "image": "learning_counting/01.png",
+          "thumb": "learning_counting/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "2 — two",
+          "image": "learning_counting/02.png",
+          "thumb": "learning_counting/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "3 — three",
+          "image": "learning_counting/03.png",
+          "thumb": "learning_counting/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "4 — four",
+          "image": "learning_counting/04.png",
+          "thumb": "learning_counting/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "5 — five",
+          "image": "learning_counting/05.png",
+          "thumb": "learning_counting/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "6 — six",
+          "image": "learning_counting/06.png",
+          "thumb": "learning_counting/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "7 — seven",
+          "image": "learning_counting/07.png",
+          "thumb": "learning_counting/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "8 — eight",
+          "image": "learning_counting/08.png",
+          "thumb": "learning_counting/08_thumb.png"
+        },
+        {
+          "id": "09",
+          "title": "9 — nine",
+          "image": "learning_counting/09.png",
+          "thumb": "learning_counting/09_thumb.png"
+        },
+        {
+          "id": "10",
+          "title": "10 — ten",
+          "image": "learning_counting/10.png",
+          "thumb": "learning_counting/10_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "coloring_space",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_space",
+      "title": "Blast Off",
+      "subtitle": "8 space adventures to color",
+      "category": "coloring",
+      "thumb": "coloring_space/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Rocket",
+          "image": "coloring_space/01.png",
+          "thumb": "coloring_space/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Astronaut",
+          "image": "coloring_space/02.png",
+          "thumb": "coloring_space/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Ringed Planet",
+          "image": "coloring_space/03.png",
+          "thumb": "coloring_space/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Friendly Alien",
+          "image": "coloring_space/04.png",
+          "thumb": "coloring_space/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Moon Landing",
+          "image": "coloring_space/05.png",
+          "thumb": "coloring_space/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Space Buggy",
+          "image": "coloring_space/06.png",
+          "thumb": "coloring_space/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Satellite",
+          "image": "coloring_space/07.png",
+          "thumb": "coloring_space/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Shooting Star",
+          "image": "coloring_space/08.png",
+          "thumb": "coloring_space/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "learning_lines",
+      "productID": "TeamDzX.Drawing-App.pack.learning_lines",
+      "title": "Pencil Warm-Ups",
+      "subtitle": "8 pre-writing patterns to trace",
+      "category": "learning",
+      "thumb": "learning_lines/cover.png",
+      "pages": [
+        {
+          "id": "straight",
+          "title": "Straight Lines",
+          "image": "learning_lines/straight.png",
+          "thumb": "learning_lines/straight_thumb.png"
+        },
+        {
+          "id": "wave",
+          "title": "Waves",
+          "image": "learning_lines/wave.png",
+          "thumb": "learning_lines/wave_thumb.png"
+        },
+        {
+          "id": "zigzag",
+          "title": "Zigzags",
+          "image": "learning_lines/zigzag.png",
+          "thumb": "learning_lines/zigzag_thumb.png"
+        },
+        {
+          "id": "hills",
+          "title": "Hills",
+          "image": "learning_lines/hills.png",
+          "thumb": "learning_lines/hills_thumb.png"
+        },
+        {
+          "id": "valleys",
+          "title": "Valleys",
+          "image": "learning_lines/valleys.png",
+          "thumb": "learning_lines/valleys_thumb.png"
+        },
+        {
+          "id": "bumps",
+          "title": "Bumps",
+          "image": "learning_lines/bumps.png",
+          "thumb": "learning_lines/bumps_thumb.png"
+        },
+        {
+          "id": "loops",
+          "title": "Loops",
+          "image": "learning_lines/loops.png",
+          "thumb": "learning_lines/loops_thumb.png"
+        },
+        {
+          "id": "spirals",
+          "title": "Spirals",
+          "image": "learning_lines/spirals.png",
+          "thumb": "learning_lines/spirals_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "coloring_treats",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_treats",
+      "title": "Sweet Treats",
+      "subtitle": "8 tasty treats to color",
+      "category": "coloring",
+      "thumb": "coloring_treats/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Cupcake",
+          "image": "coloring_treats/01.png",
+          "thumb": "coloring_treats/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Ice Cream",
+          "image": "coloring_treats/02.png",
+          "thumb": "coloring_treats/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Donut",
+          "image": "coloring_treats/03.png",
+          "thumb": "coloring_treats/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Cookie",
+          "image": "coloring_treats/04.png",
+          "thumb": "coloring_treats/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Birthday Cake",
+          "image": "coloring_treats/05.png",
+          "thumb": "coloring_treats/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Lollipop",
+          "image": "coloring_treats/06.png",
+          "thumb": "coloring_treats/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Pancakes",
+          "image": "coloring_treats/07.png",
+          "thumb": "coloring_treats/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Fruit Bowl",
+          "image": "coloring_treats/08.png",
+          "thumb": "coloring_treats/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "coloring_fairytale",
+      "productID": "TeamDzX.Drawing-App.pack.coloring_fairytale",
+      "title": "Once Upon a Time",
+      "subtitle": "8 fairy tale scenes to color",
+      "category": "coloring",
+      "thumb": "coloring_fairytale/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Castle",
+          "image": "coloring_fairytale/01.png",
+          "thumb": "coloring_fairytale/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Friendly Dragon",
+          "image": "coloring_fairytale/02.png",
+          "thumb": "coloring_fairytale/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Brave Knight",
+          "image": "coloring_fairytale/03.png",
+          "thumb": "coloring_fairytale/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Wizard",
+          "image": "coloring_fairytale/04.png",
+          "thumb": "coloring_fairytale/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Mermaid",
+          "image": "coloring_fairytale/05.png",
+          "thumb": "coloring_fairytale/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Fairy",
+          "image": "coloring_fairytale/06.png",
+          "thumb": "coloring_fairytale/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Magic Book",
+          "image": "coloring_fairytale/07.png",
+          "thumb": "coloring_fairytale/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Toadstool House",
+          "image": "coloring_fairytale/08.png",
+          "thumb": "coloring_fairytale/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "mandala_geometric",
+      "productID": "TeamDzX.Drawing-App.pack.mandala_geometric",
+      "title": "Geometric Mandalas",
+      "subtitle": "8 geometric mandalas",
+      "category": "mandala",
+      "thumb": "mandala_geometric/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Hexagon",
+          "image": "mandala_geometric/01.png",
+          "thumb": "mandala_geometric/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Lattice",
+          "image": "mandala_geometric/02.png",
+          "thumb": "mandala_geometric/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Kaleidoscope",
+          "image": "mandala_geometric/03.png",
+          "thumb": "mandala_geometric/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Prism",
+          "image": "mandala_geometric/04.png",
+          "thumb": "mandala_geometric/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Spiral",
+          "image": "mandala_geometric/05.png",
+          "thumb": "mandala_geometric/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Mosaic",
+          "image": "mandala_geometric/06.png",
+          "thumb": "mandala_geometric/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Compass",
+          "image": "mandala_geometric/07.png",
+          "thumb": "mandala_geometric/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Weave",
+          "image": "mandala_geometric/08.png",
+          "thumb": "mandala_geometric/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "mandala_animals",
+      "productID": "TeamDzX.Drawing-App.pack.mandala_animals",
+      "title": "Animal Mandalas",
+      "subtitle": "8 animal mandalas",
+      "category": "mandala",
+      "thumb": "mandala_animals/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Elephant",
+          "image": "mandala_animals/01.png",
+          "thumb": "mandala_animals/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Owl",
+          "image": "mandala_animals/02.png",
+          "thumb": "mandala_animals/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Butterfly",
+          "image": "mandala_animals/03.png",
+          "thumb": "mandala_animals/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Turtle",
+          "image": "mandala_animals/04.png",
+          "thumb": "mandala_animals/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Lion",
+          "image": "mandala_animals/05.png",
+          "thumb": "mandala_animals/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Wolf",
+          "image": "mandala_animals/06.png",
+          "thumb": "mandala_animals/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Peacock",
+          "image": "mandala_animals/07.png",
+          "thumb": "mandala_animals/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Dragonfly",
+          "image": "mandala_animals/08.png",
+          "thumb": "mandala_animals/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "mandala_celtic",
+      "productID": "TeamDzX.Drawing-App.pack.mandala_celtic",
+      "title": "Celtic Knots",
+      "subtitle": "8 knotwork mandalas",
+      "category": "mandala",
+      "thumb": "mandala_celtic/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Trinity",
+          "image": "mandala_celtic/01.png",
+          "thumb": "mandala_celtic/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Endless Knot",
+          "image": "mandala_celtic/02.png",
+          "thumb": "mandala_celtic/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Braid Ring",
+          "image": "mandala_celtic/03.png",
+          "thumb": "mandala_celtic/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Cross",
+          "image": "mandala_celtic/04.png",
+          "thumb": "mandala_celtic/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Spiral Triad",
+          "image": "mandala_celtic/05.png",
+          "thumb": "mandala_celtic/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Shield Knot",
+          "image": "mandala_celtic/06.png",
+          "thumb": "mandala_celtic/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Vine Knot",
+          "image": "mandala_celtic/07.png",
+          "thumb": "mandala_celtic/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Serpent",
+          "image": "mandala_celtic/08.png",
+          "thumb": "mandala_celtic/08_thumb.png"
+        }
+      ]
+    },
+    {
+      "id": "mandala_seasons",
+      "productID": "TeamDzX.Drawing-App.pack.mandala_seasons",
+      "title": "Seasons Mandalas",
+      "subtitle": "8 mandalas through the year",
+      "category": "mandala",
+      "thumb": "mandala_seasons/cover.png",
+      "pages": [
+        {
+          "id": "01",
+          "title": "Spring Blossom",
+          "image": "mandala_seasons/01.png",
+          "thumb": "mandala_seasons/01_thumb.png"
+        },
+        {
+          "id": "02",
+          "title": "Summer Sun",
+          "image": "mandala_seasons/02.png",
+          "thumb": "mandala_seasons/02_thumb.png"
+        },
+        {
+          "id": "03",
+          "title": "Autumn Leaf",
+          "image": "mandala_seasons/03.png",
+          "thumb": "mandala_seasons/03_thumb.png"
+        },
+        {
+          "id": "04",
+          "title": "Snowflake",
+          "image": "mandala_seasons/04.png",
+          "thumb": "mandala_seasons/04_thumb.png"
+        },
+        {
+          "id": "05",
+          "title": "Rain",
+          "image": "mandala_seasons/05.png",
+          "thumb": "mandala_seasons/05_thumb.png"
+        },
+        {
+          "id": "06",
+          "title": "Harvest",
+          "image": "mandala_seasons/06.png",
+          "thumb": "mandala_seasons/06_thumb.png"
+        },
+        {
+          "id": "07",
+          "title": "Frost",
+          "image": "mandala_seasons/07.png",
+          "thumb": "mandala_seasons/07_thumb.png"
+        },
+        {
+          "id": "08",
+          "title": "Midsummer",
+          "image": "mandala_seasons/08.png",
+          "thumb": "mandala_seasons/08_thumb.png"
         }
       ]
     }
